@@ -9,6 +9,6 @@ Feature Engineering: Creation and evaluation of relevant features to improve mod
 
 In the next phase, a predictive model will be built and evaluated using the processed data.
 
-This repository contains the project files, including the EDA and feature engineering steps, with plans for further development in model building and evaluation.
+
 
 
